@@ -1,6 +1,9 @@
-.bodyPaginaInicio  {
-background-image: url('../images/Fondo.png');
-}
+body, html {
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: url('../images/FondoGenerico.png');
+    background-size: 100% 100%;
+}    
  
 
 .encabezadopaginainicio
@@ -10,14 +13,40 @@ background-image: url('../images/Fondo.png');
 
 .botonCuadroMiTrabajo
 {
-    padding-left: 50px; float: left; width: 250px; position:relative; margin-top: 400px; margin-left: -400px;
+    padding: 0px; float: right; width: 180px; position:absolute; margin-top: 380px; margin-right: 100px; margin-left: -100px; z-index: 1;
 }
 
 .botonQuienSoyPaginaInicio
 {
-    padding-left: 50px; float: left; width: 220px; position:relative; margin-top: 340px; margin-left: -180px;
+    padding: 0px; float: right; width: 180px; position:absolute; margin-top: 310px; margin-right: 100px; margin-left: 100px; z-index: 1;
 }
 .botonAccionesProvocadorasPaginaInicio
 {
-    padding-left: 50px; float: left; width: 230px; position:relative; margin-top: 390px; margin-left: -20px;
+    padding: 0px; float: right; width: 180px; position:absolute; margin-top: 380px; margin-right: 100px; margin-left: 280px; z-index: 1;
+}
+
+.mundopaginaInicio
+{
+    padding: 0px; float: right; width: 300px; position:absolute; margin-top: 380px; margin-right: 100px; margin-left: 540px;
+    animation-duration: 15s;
+    animation-name: slidein;
+    animation-iteration-count: infinite;
+}
+@keyframes slidein {
+    from {
+      margin-left: 540px;
+      width: 300px;
+      margin-top: 380px;
+    }
+  
+    to {
+      margin-left: -100px;
+      width: 300px;
+      margin-top: 50px;
+    }
+  }
+
+.geometricosPaginadeInicio
+{
+    padding: 0px; float: right; width: 900px; position:absolute; margin-top: 290px; margin-right: 100px; margin-left: -50px;
 }
