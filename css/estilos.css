@@ -8,11 +8,7 @@ background-image: url('../images/FondoPaginaInternaMiTrabajo.png');
 
 .bodyPaginaInternaQuienSoy  {
     background-image: url('../images/FondoPaginaInternaQuienSoy.png');
-    }
-
-.bodyPaginaInternaAccionesProvocadoras  {
-    background-image: url('../images/FondoPaginaInternaAccionesProvocadoras.png');
-    }    
+    }   
 
 .encabezadopaginainicio
 {
@@ -51,19 +47,4 @@ background-image: url('../images/FondoPaginaInternaMiTrabajo.png');
 .botonInicioPaginasInternas
 {
     padding-left: 50px; float: right; width: 164px; position:relative; margin-top: 550px; margin-right: -10px;
-}
-
-.botonQuienSoyPaginasInternasAcciones
-{
-    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: 300px;
-}
-
-.botonCuadroMiTrabajoPaginasInternasAcciones
-{
-    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: -270px;
-}
-
-.botonInicioPaginasInternasAcciones
-{
-    padding-left: 50px; float: right; width: 164px; position:relative; margin-top: 550px; margin-right: -30px;
 }

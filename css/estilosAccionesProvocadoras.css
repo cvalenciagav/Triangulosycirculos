@@ -1,0 +1,48 @@
+.bodyPaginaInternaAccionesProvocadoras  {
+    background-image: url('../images/FondoPaginaInternaAccionesProvocadoras.png');
+    }    
+
+.botonQuienSoyPaginasInternasAcciones
+{
+    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: 300px;
+}
+
+.botonCuadroMiTrabajoPaginasInternasAcciones
+{
+    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: -270px;
+}
+
+.botonInicioPaginasInternasAcciones
+{
+    padding-left: 50px; float: right; width: 164px; position:relative; margin-top: 550px; margin-right: -30px;
+}
+
+.botonCartografiasCorporales
+{
+    padding-left: 50px; float: left; width: 144px; position:relative; margin-top: 450px; margin-left: 90px;
+}
+
+.botonAutorretratos
+{
+    padding-left: 50px; float: left; width: 154px; position: relative; margin-top: 450px; margin-left: -32px;
+}
+
+.botonSentimientos
+{
+    padding-left: 50px; float: left; width: 152px; position: relative; margin-top: 450px; margin-left: -30px;
+}
+
+.botonAccionesSensoriales
+{
+    padding-left: 50px; float: left; width: 155px; position: relative; margin-top: 435px; margin-left: 120px;
+}
+
+.botonCuerpoyMovimiento
+{
+    padding-right: 40px; float: right; width: 150px; position: relative; margin-top: 430px; margin-right: -200px;
+}
+
+.botonCotidianidades
+{
+    padding-right: 40px; float: right; width: 170px; position: relative; margin-top: 430px; margin-right: -400px;
+}
