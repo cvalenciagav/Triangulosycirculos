@@ -11,12 +11,27 @@ background-image: url('../images/FondoPaginaInternaMiTrabajo.png');
     padding: 10px; margin: 10px;float: left; width: 450px; 
 }
 
-.textoMiTrabajo
-{
-    padding-left: 50px; float: left; position:relative; margin-top:200px; margin-left: auto;
-}
-
 .botonCuadroMiTrabajo
 {
     padding-left: 50px; float: left; width: 300px; position:relative; margin-top: 400px; margin-left: -300px;
+}
+
+.botonQuienSoyPaginasInternas
+{
+    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: 300px;
+}
+
+.botonAccionesProvocadorasPaginasInternas
+{
+    padding-left: 50px; float: right; width: 153px; position:relative; margin-top: 550px; margin-right: -270px;
+}
+
+.botonCuadroMiTrabajoPaginasInternas
+{
+    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: -30px;
+}
+
+.botonInicioPaginasInternas
+{
+    padding-left: 50px; float: right; width: 164px; position:relative; margin-top: 550px; margin-right: -10px;
 }
