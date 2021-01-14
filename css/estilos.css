@@ -6,6 +6,14 @@ background-image: url('../images/Fondo.png');
 background-image: url('../images/FondoPaginaInternaMiTrabajo.png');
 }
 
+.bodyPaginaInternaQuienSoy  {
+    background-image: url('../images/FondoPaginaInternaQuienSoy.png');
+    }
+
+.bodyPaginaInternaAccionesProvocadoras  {
+    background-image: url('../images/FondoPaginaInternaAccionesProvocadoras.png');
+    }    
+
 .encabezadopaginainicio
 {
     padding: 10px; margin: 10px;float: left; width: 450px; 
@@ -13,7 +21,16 @@ background-image: url('../images/FondoPaginaInternaMiTrabajo.png');
 
 .botonCuadroMiTrabajo
 {
-    padding-left: 50px; float: left; width: 300px; position:relative; margin-top: 400px; margin-left: -300px;
+    padding-left: 50px; float: left; width: 250px; position:relative; margin-top: 400px; margin-left: -400px;
+}
+
+.botonQuienSoyPaginaInicio
+{
+    padding-left: 50px; float: left; width: 220px; position:relative; margin-top: 340px; margin-left: -180px;
+}
+.botonAccionesProvocadorasPaginaInicio
+{
+    padding-left: 50px; float: left; width: 230px; position:relative; margin-top: 390px; margin-left: -20px;
 }
 
 .botonQuienSoyPaginasInternas
@@ -34,4 +51,19 @@ background-image: url('../images/FondoPaginaInternaMiTrabajo.png');
 .botonInicioPaginasInternas
 {
     padding-left: 50px; float: right; width: 164px; position:relative; margin-top: 550px; margin-right: -10px;
+}
+
+.botonQuienSoyPaginasInternasAcciones
+{
+    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: 300px;
+}
+
+.botonCuadroMiTrabajoPaginasInternasAcciones
+{
+    padding-left: 50px; float: right; width: 150px; position:relative; margin-top: 550px; margin-right: -270px;
+}
+
+.botonInicioPaginasInternasAcciones
+{
+    padding-left: 50px; float: right; width: 164px; position:relative; margin-top: 550px; margin-right: -30px;
 }
