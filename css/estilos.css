@@ -50,5 +50,5 @@ body, html {
 
 .geometricosPaginadeInicio
 {
-    padding: 0px; float: right; width: 900px; position: absolute; margin-top: 20%; margin-right: 100px; margin-left: -50px;
+    padding: 0px; float: right; width: auto; position: absolute; margin-top: 20%; margin-right: 100px; margin-left: -50px;
 }
