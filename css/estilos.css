@@ -14,40 +14,41 @@ body, html {
 
 .botonCuadroMiTrabajo
 {
-    padding: 0px; float: right; width: 150px; position:absolute; margin-top: 410px; margin-right: 100px; margin-left: -280px; z-index: 1;
+    padding: 0px; float: right; width: 110px; position:absolute; margin-top: 30%; margin-right: 100px; margin-left: -280px; z-index: 1;
 }
 
 .botonQuienSoyPaginaInicio
 {
-    padding: 0px; float: right; width: 150px; position:absolute; margin-top: 340px; margin-right: 100px; margin-left: -100px; z-index: 1;
+    padding: 0px; float: right; width: 110px; position:absolute; margin-top: 27%; margin-right: 100px; margin-left: -140px; z-index: 1;
 }
 .botonAccionesProvocadorasPaginaInicio
 {
-    padding: 0px; float: right; width: 150px; position:absolute; margin-top: 370px; margin-right: 100px; margin-left: 90px; z-index: 1;
+    padding: 0px; float: right; width: 110px; position:absolute; margin-top: 30%; margin-right: 100px; margin-left: 20px; z-index: 1;
 }
 
 .mundopaginaInicio
 {
-    padding: 0px; float: left; width: 600px; position:absolute; margin-top: 70px; margin-right: 50px; margin-left: 280px;
+    padding: 0px; float: left; width:-500px; position:absolute; margin-top: 5%; margin-right: 0.2%; margin-left: 22%;
     animation-duration: 15s;
     animation-name: slidein;
+    animation-iteration-count: infinite;
 }
 
 @keyframes slidein {
     from {
-      margin-left: 280px;
-      width: 600px;
-      margin-top: 70px;
+      margin-left: 22%;
+      width: -500px;
+      margin-top: 5%;
     }
   
     to {
-        margin-left: 278px;
-        width: 600px;
-        margin-top: 68px;
+        margin-left: 21.9%;
+        width: -500px;
+        margin-top: 5.1%;
     }
   }
 
 .geometricosPaginadeInicio
 {
-    padding: 0px; float: right; width: 900px; position: absolute; margin-top: 280px; margin-right: 100px; margin-left: -50px;
+    padding: 0px; float: right; width: 900px; position: absolute; margin-top: 20%; margin-right: 100px; margin-left: -50px;
 }
